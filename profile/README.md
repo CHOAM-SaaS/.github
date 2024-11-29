@@ -9,4 +9,4 @@ I will permit it to pass over me and through me. And when it has gone past I wil
 
 ## Credits
 
-Thank you so much to the community for supporting this awesome project. We are looking forward to developing more and if anyone has any ideas, please join the testing server [here!](https://discord.gg/ND2MBzTetu)
+Thank you so much to our community for supporting this awesome project. We are looking forward to developing more and if anyone has any ideas, please join the testing server [here!](https://discord.gg/ND2MBzTetu)
